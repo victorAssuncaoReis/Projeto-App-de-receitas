@@ -1,5 +1,5 @@
 
-# App de Receitas
+# :hamburger: App de Receitas :hamburger:
 
 Projeto em grupo realizado ao final do módulo de Front-End enquanto estudava Desenvolvimento Web na Trybe.
 
